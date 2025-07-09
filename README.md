@@ -30,9 +30,4 @@ This project is a Netflix clone developed using the MERN stack (MongoDB, Express
 
 
 
-
-## Contributors
-
-- [Muhammad Awais Khan]
-
 Feel free to contribute to the project and make it even better!
