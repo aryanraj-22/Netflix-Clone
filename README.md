@@ -1,6 +1,6 @@
 # Netflix Clone MERN
 
-[![Demo](https://netflix-askhan.netlify.app/)](https://netflix-askhan.netlify.app/)
+
   
 ## Overview
 
@@ -27,14 +27,7 @@ This project is a Netflix clone developed using the MERN stack (MongoDB, Express
 ### Signup Page
 ![Signup Page](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/signup.png)
 
-### Our Team
-![Our Team](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/team.png)
 
-### Main Page
-![Main Page](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/mainpage.png)
-
-### Main
-![Main](https://github.com/askhan963/netflix-clone-mern/blob/main/screenshots/main.png)
 
 
 
